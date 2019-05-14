@@ -4,22 +4,19 @@
 ### Hello I am ~~Shaw~~ Sean Landers and this is a website.
 
 
-`markdown
 
-# What is Growth Mindset?
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# What is *Growth Mindset?*
 
-1. Numbered
-2. List
+- To me a Growth mindset would be starting with a willingness to learn.
+- Knowing your own capabilities.
+- The ability to push past your limits and overcome adversity.
+
 
 **bold** *Italic* and `Code` text
 
 [Link](url) and ![Image](src)
-`
+
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
