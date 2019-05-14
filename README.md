@@ -13,6 +13,12 @@
 - The ability to push past your limits and overcome adversity.
 - "Be like water" - Bruce lee.
 
+## Don't Forget This
+
+- Trust your gut.
+- Have patience
+- Everything you do, do it well.
+
 
 
 [Visit My Github!](https://github.com/seanlanders92)
