@@ -4,7 +4,7 @@
 ### Hello I am ~~Shaw~~ Sean Landers and this is a website.
 
 
-``markdown
+`markdown
 
 # What is Growth Mindset?
 ## Header 2
@@ -19,7 +19,7 @@
 **bold** *Italic* and `Code` text
 
 [Link](url) and ![Image](src)
-``
+`
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
