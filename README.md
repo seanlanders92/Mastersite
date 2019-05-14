@@ -5,9 +5,8 @@
 
 
 ``markdown
-Syntax highlighted code block
 
-# Header 1
+# What is Growth Mindset?
 ## Header 2
 ### Header 3
 
