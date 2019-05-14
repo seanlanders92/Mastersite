@@ -11,6 +11,7 @@
 - To me a Growth mindset would be starting with a willingness to learn.
 - Knowing your own capabilities.
 - The ability to push past your limits and overcome adversity.
+- "Be like water" - Bruce lee.
 
 
 
