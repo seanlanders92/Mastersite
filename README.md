@@ -1,10 +1,13 @@
 ## Lab 01 Assignment
 
 
-### Hello I am ~~Shaw~~ Sean Landers and this is a website.
+### Hello I am Sean Landers and this is a website.
+
+#Table of contents
+1. [Introduction](#introduction)
 
 
-
+##Introduction <a name="introduction"></a>
 
 # What is *Growth Mindset?*
 
