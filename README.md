@@ -3,11 +3,12 @@
 
 ### Hello I am Sean Landers and this is a website.
 
-#Table of contents
+# Table of contents
 1. [Introduction](#introduction)
+2. [IDE vs Text Editor?](#paragraph1)
 
 
-##Introduction <a name="introduction"></a>
+## Introduction <a name="introduction"></a>
 
 # What is *Growth Mindset?*
 
@@ -30,3 +31,8 @@
 ![Carpic](https://github.com/seanlanders92/Mastersite/blob/master/20180210_210450.jpg)
 
 
+
+
+
+# Using an IDE versus a Text Editor <a name="paragraph1"></a>
+Before you can decide which program best suits your needs and goals it's best to understand what an IDE does vs what a text editor does.
