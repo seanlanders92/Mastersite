@@ -41,4 +41,10 @@ Before you can decide which program best suits your needs and goals it's best to
 
 #### Text Editors:
 
-> There are essentially two types of text editors. Basic and code specific text editors. An example of a basic text editor would be notepad on a windows computer. You can create code and build a website within notepad, however it lacks many useful features that a code specific text editor would provide.
+> There are essentially two types of text editors. Basic and code specific text editors. An example of a basic text editor would be notepad on a windows computer. You can create code and build a website within notepad, however it lacks many useful features that a code specific text editor would provide. Notepad and similar programs on other operating systems are the barest of bones text editors and can make it difficult to catch errors as well as reduce coding efficiency. 
+
+
+
+#### IDE (Integrated Development Environment)
+
+> Now that we talked a little bit about what text editors are and what they can do let's briefly discuss what and IDE is and how it differs from a text editor.
