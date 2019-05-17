@@ -38,3 +38,6 @@
 
 # Using an IDE versus a Text Editor <a name="paragraph1"></a>
 Before you can decide which program best suits your needs and goals it's best to understand what an IDE does vs what a text editor does.
+
+#### Text Editors:
+'There are essentially two types of text editors. Basic and code specific text editors. An example of a basic text editor would be notepad on a windows computer. You can create code and build a website within notepad, however it lacks many useful features'
