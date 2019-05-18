@@ -5,7 +5,7 @@
 
 ## Table of contents
 1. [Introduction](#introduction)
-2. [IDE vs Text Editor?](./page2.md)
+2. [IDE vs Text Editor?](./Page2.md)
 
 
 
