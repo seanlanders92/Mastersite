@@ -4,7 +4,7 @@
 # Hello I am Sean Landers and this is a website.
 
 ## Table of contents
-1. [Introduction](#introduction)
+1. [Growth Mindset](./Page1.md)
 2. [IDE vs Text Editor?](./Page2.md)
 3. [How to upload to GitHub from your PC](./page3.md)
 
@@ -12,19 +12,7 @@
 
 ## Introduction <a name="introduction"></a>
 
-### What is *Growth Mindset?*
-
-- To me a Growth mindset would be starting with a willingness to learn.
-- Knowing your own capabilities.
-- The ability to push past your limits and overcome adversity.
-- "Be like water" - Bruce lee.
-
-### Don't Forget This
-
-- Trust your gut.
-- Have patience
-- Everything you do, do it well.
-
+This is a journal and test website that will receive frequent updates as I learn how to code better. Hopefully it will look decent one day. Also I post car pictures.
 
 
 [Visit My Github!](https://github.com/seanlanders92)
