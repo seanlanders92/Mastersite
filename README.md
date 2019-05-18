@@ -48,3 +48,7 @@ Before you can decide which program best suits your needs and goals it's best to
 #### IDE (Integrated Development Environment):
 
 > Now that we talked a little bit about what text editors are and what they can do let's briefly discuss what an IDE is and how it differs from a text editor. While text editors edit and manage text, an IDE in a grouping of various softwares packaged into one product. It can edit text, manage files, compile code, and debug all inside the same program. While starting out with simple websites or lines of code an IDE might be a bit overkill as you may not need all these features. I *personally* only have experience using Adobe Dreamweaver, which I think is a great IDE for beginners as its how I learned. Dreamweaver is expensive though and compared to most great text editors, which are free maybe not be the best choice starting out. In the end it all comes down to personal preference and what you feel most comfortable using. Good luck in the search for what program fits you the best!
+
+
+
+> VS Code commit test.
