@@ -15,3 +15,6 @@ if (hourNow > 18) {
 console.log(greeting);
 
 document.write('<h3>' + greeting + '</h3>');
+
+var usersAge = prompt("how old are you today?");
+console.log(usersAge);

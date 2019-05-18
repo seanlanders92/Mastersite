@@ -1,7 +1,8 @@
 # Intro to javascript
 >Below is an example of some java script code.
 <script src="javatest.js"></script>
->This is the code used to achieve the previous affect. 'var today = new Date();
+>This is the code used to achieve the previous affect. 
+'var today = new Date();
 var hourNow = today.getHours();
 var greeting;
 
