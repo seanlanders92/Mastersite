@@ -20,3 +20,4 @@ var usersAge = prompt("how old are you today?");
 console.log(usersAge);
 
 document.write(<h2>You are ' + usersAge + ' years old today!</h2>)
+document.write
