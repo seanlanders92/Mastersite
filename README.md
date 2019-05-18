@@ -7,6 +7,7 @@
 1. [Growth Mindset](./Page1.md)
 2. [IDE vs Text Editor?](./Page2.md)
 3. [How to upload to GitHub from your PC](./page3.md)
+4. [Introduction to Javascript](./page4.md)
 
 
 
