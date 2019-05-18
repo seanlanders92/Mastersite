@@ -5,8 +5,8 @@
 
 ## Table of contents
 1. [Introduction](#introduction)
-2. [IDE vs Text Editor?](./page2.md)
-
+2. [IDE vs Text Editor?](./Page2.md)
+3. [How to upload to GitHub from your PC](./page3.md)
 
 
 
