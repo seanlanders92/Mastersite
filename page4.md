@@ -19,6 +19,3 @@ if (hourNow > 18) {
 console.log(greeting);
 
 document.write('<h3>' + greeting + '</h3>');'
-
-<h2>
-</h2>
