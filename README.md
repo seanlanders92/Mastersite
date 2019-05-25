@@ -8,6 +8,7 @@
 2. [IDE vs Text Editor?](./Page2.md)
 3. [How to upload to GitHub from your PC](./page3.md)
 4. [Introduction to Javascript](./page4.md)
+5. [Introduction to Functions](./page5.md)
 
 
 
