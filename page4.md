@@ -20,4 +20,4 @@ console.log(greeting);
 
 document.write('<h3>' + greeting + '</h3>');'
  >This javascript as an example will display a greeting on a webpage that changes based on the time of day. Basically javascript is the code that drives the functionality of the webpage. It allows you to create interactivity on a website such as buttons or user prompts.
- [Home](./README.md)
+#### [Home](./README.md)
